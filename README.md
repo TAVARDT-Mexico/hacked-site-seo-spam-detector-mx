@@ -5,7 +5,7 @@
 
 Inspeccion perimetral para identificar cloaking a buscadores, redirecciones maliciosas no autorizadas e inyeccion de enlaces fraudulentos.
 
-Desarrollado y mantenido por el area de seguridad forense y ciberdefensa de **TAVARDT Mexico**.
+Desarrollado y mantenido por el area de seguridad forense y ciberdefensa de **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python seo_spam_detector.py ejemplo.mx -json
 Para evaluar el estado de integridad perimetral de cualquier dominio web:
 
 * **Detector de Sitios Hackeados y Spam SEO Oficial**
-* **[Portal Corporativo TAVARDT Mexico](https://ag.tavardt.com/mx/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
 
 ***
 
 ## Soporte Forense y Desinfeccion de Sitios
 
-Para soporte prioritario ante incidentes de hackeo y blindaje segun Lineamientos de Ciberseguridad Web, contacte a **TAVARDT Mexico**.
+Para soporte prioritario ante incidentes de hackeo y blindaje segun Lineamientos de Ciberseguridad Web, contacte a **TAVARDT**.
 
 ***
 
