@@ -23,7 +23,7 @@ Desarrollado y mantenido por el area de seguridad forense y ciberdefensa de **TA
 Requiere Python 3.8 o superior utilizando exclusivamente la biblioteca estandar.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/hacked-site-seo-spam-detector-mx.git
+git clone https://github.com/TAVARDT/hacked-site-seo-spam-detector-mx.git
 cd hacked-site-seo-spam-detector-mx
 python seo_spam_detector.py ejemplo.mx
 ```
