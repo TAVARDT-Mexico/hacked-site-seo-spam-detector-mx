@@ -1,4 +1,4 @@
-# Detector de Sitios Hackeados y Spam SEO | TAVARDT Mexico
+# Detector de Sitios Hackeados y Spam SEO
 
 [![Detector Spam SEO](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/mx/detector-seo-spam-sitio-hackeado/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Para evaluar el estado de integridad perimetral de cualquier dominio web:
 ## Soporte Forense y Desinfeccion de Sitios
 
 Para soporte prioritario ante incidentes de hackeo y blindaje segun Lineamientos de Ciberseguridad Web, contacte a **TAVARDT Mexico**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
