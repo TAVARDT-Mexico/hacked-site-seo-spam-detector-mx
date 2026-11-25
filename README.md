@@ -2,6 +2,7 @@
 
 [![Detector Spam SEO](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/mx/detector-seo-spam-sitio-hackeado/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Inspeccion perimetral para identificar cloaking a buscadores, redirecciones maliciosas no autorizadas e inyeccion de enlaces fraudulentos.
 
@@ -56,6 +57,11 @@ Para soporte prioritario ante incidentes de hackeo y blindaje segun Lineamientos
 * **Portal Corporativo:** https://ag.tavardt.com/mx/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/mx/
 * **Contacto Técnico:** https://ag.tavardt.com/mx/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el arquivo [LICENSE](LICENSE) para obtener más detalles.
 
 ***
 
